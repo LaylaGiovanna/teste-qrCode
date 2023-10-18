@@ -11,6 +11,7 @@ const Layout = ({ children }) => {
           href="https://fonts.gstatic.com"
           crossOrigin="anonymous"
         />
+        <scrip src="../htmlhtml5-qrcode.min.js" defer/>
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
